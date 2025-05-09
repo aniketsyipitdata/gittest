@@ -1,0 +1,5 @@
+git init
+git status
+git add command.txt
+git commit -m "Adding commnds within text file of gitdemo project"
+git log
