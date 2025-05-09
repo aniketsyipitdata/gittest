@@ -3,3 +3,4 @@ git status
 git add command.txt
 git commit -m "Adding commnds within text file of gitdemo project"
 git log
+#just adding this for a check is that is going to merge with main or not
